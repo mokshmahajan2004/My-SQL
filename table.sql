@@ -12,4 +12,4 @@ values
 (102,"Arjun"),
 (103,"Ram");
 select * from student;
-insert into student values(104,"Shyam")
+insert into student values(104,"Shyam");
